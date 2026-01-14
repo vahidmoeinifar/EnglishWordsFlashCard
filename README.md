@@ -2,7 +2,7 @@
 
 A beautiful Qt QuickQML application for learning English words with flashcard functionality.
 
-![Flashcard App](screenshot.png)
+![Flashcard App](/screenshots/screenshot.png)
 
 ## Features
 
